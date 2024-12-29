@@ -23,6 +23,7 @@ client.on("message", (message) => {
 	}
   });
 
+// EXEMPLO:
 //   forEach([
 //     {
 //         id: 322114423,
